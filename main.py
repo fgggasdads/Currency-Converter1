@@ -128,6 +128,7 @@ class CurrencyConverter:
         
         # Обновление истории в таблице
         self.update_history_display()
+
     
     def update_rates(self):
         """Обновляет курс валют из API."""
