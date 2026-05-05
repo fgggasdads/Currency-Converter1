@@ -45,7 +45,7 @@ pip install requests
 3. Скачайте или склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ваш_логин/CurrencyConverter.git
+git clone https://github.com/fgggasdads/CurrencyConverter.git
 ```
 
 4. Перейдите в папку проекта:
